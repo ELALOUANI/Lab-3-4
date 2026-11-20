@@ -1,0 +1,5 @@
+com\example\lab3\TestLab3Application.class
+com\example\lab3\Lab3ApplicationTests.class
+com\example\lab3\controller\AuthControllerTest.class
+com\example\lab3\controller\ProductControllerTest.class
+com\example\lab3\TestcontainersConfiguration.class
